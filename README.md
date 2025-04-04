@@ -67,10 +67,15 @@ ffmpeg -version
 
 
 ✅ Pegado automático de enlaces desde el portapapeles
+
 ✅ Selección de carpeta de destino para las descargas
+
 ✅ Conversión automática a .mp3
+
 ✅ Barra de progreso interactiva
+
 ✅ Interfaz estilizada con colores personalizados
+
 
 
 📂 Estructura del proyecto
