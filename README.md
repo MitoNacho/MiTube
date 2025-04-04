@@ -78,6 +78,9 @@ ffmpeg -version
 
 
 
+
+
+
 📂 Estructura del proyecto
 
 ```bash
@@ -97,12 +100,16 @@ MiTube/
 
 ```
 
+
+
 🎵 Ejecutar la aplicación
 
 ```bash
 python src/gui.py
 
 ```
+
+
 
 ---
 
