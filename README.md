@@ -103,7 +103,9 @@ python src/gui.py
 Si quieres mejorar este proyecto, ¡será genial!
 Haz un fork del repositorio, crea una nueva rama y envía un pull request con tus mejoras. 😃
 
-💡 Autor:  **Nacho Naves**
+💡 Autor:  
+
+**Nacho Naves**
 
 GitHub: **@MitoNacho**
 
