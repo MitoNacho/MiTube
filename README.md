@@ -87,6 +87,16 @@ MiTube/
 
 ```
 
+🎵 Ejecutar la aplicación
+
+```bash
+python src/gui.py
+
+```
+
+---
+
+
 🛠️ Contribuir
 Si quieres mejorar este proyecto, ¡será genial!
 Haz un fork del repositorio, crea una nueva rama y envía un pull request con tus mejoras. 😃
