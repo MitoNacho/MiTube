@@ -3,7 +3,7 @@
 **MiTube3.0** es una aplicación de escritorio en Python con interfaz gráfica que permite descargar vídeos de YouTube en **formato MP3** de manera rápida y sencilla.  
 Utiliza `yt-dlp` para la descarga y conversión, y `PySimpleGUI` para la interfaz gráfica.
 
-![Interfaz de MiTubeIII](https://via.placeholder.com/800x400?text=Aqui+puedes+poner+una+imagen+de+tu+interfaz)
+![Interfaz de MiTubeIII](assets/interfaz.png)
 
 ---
 
@@ -92,7 +92,7 @@ Si quieres mejorar este proyecto, ¡será genial!
 Haz un fork del repositorio, crea una nueva rama y envía un pull request con tus mejoras. 😃
 
 💡 Autor
-[Nacho Naves]
+![Nacho Naves]
 GitHub: @MitoNacho
 Web personal: https://mitonacho.github.io/dev/
 
