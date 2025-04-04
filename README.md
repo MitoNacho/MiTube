@@ -43,12 +43,14 @@ venv\Scripts\activate      # En Windows
 pip install -r requirements.txt
 ```
 
-⚠️ Instalación de ffmpeg
-Para la conversión de audio, yt-dlp necesita ffmpeg. Si no lo tienes instalado, descárgalo desde:
+⚠️ Instalación de ffmpeg:
+
+Para la conversión de audio, `yt-dlp` necesita ffmpeg. Si no lo tienes instalado, descárgalo desde:
 
 🔗 https://ffmpeg.org/download.html
 
 📌 Instrucciones para Windows:
+
 Descarga el ZIP desde el enlace anterior.
 
 Extrae los archivos en C:\ffmpeg.
@@ -62,6 +64,8 @@ ffmpeg -version
 ```
 
 🖥️ Funcionalidades
+
+
 ✅ Pegado automático de enlaces desde el portapapeles
 ✅ Selección de carpeta de destino para las descargas
 ✅ Conversión automática a .mp3
