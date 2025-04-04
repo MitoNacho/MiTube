@@ -18,11 +18,12 @@ Instala las dependencias necesarias con:
 
 ```bash
 pip install -r requirements.txt
-
+```
 
 🚀 Instalación y Uso
 🔽 Clonar el repositorio
 
+```bash
 git clone https://github.com/MitoNacho/MiTube.git
 cd MiTube
 
