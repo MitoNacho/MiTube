@@ -14,11 +14,7 @@ Antes de usar esta aplicación, asegúrate de tener:
 - **Python 3.10 o superior**
 - **pip** instalado
 
-Instala las dependencias necesarias con:
 
-```bash
-pip install -r requirements.txt
-```
 
 🚀 Instalación y Uso
 🔽 Clonar el repositorio
